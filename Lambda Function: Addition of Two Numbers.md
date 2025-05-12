@@ -1,6 +1,8 @@
 # Lambda Function in Python: Addition of Two Numbers
 NAME :DHANUCIYA. J 
+---
 REG NO:212224020010
+---
 ## 🎯 Aim
 To write a Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum.
 
