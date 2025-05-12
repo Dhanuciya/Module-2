@@ -1,7 +1,8 @@
 # Functions in Python: Modulo Calculator
 NAME: DHANUCIYA .J 
+---
 REG NO: 212224020010
-
+---
 ## 🎯 Aim
 To write a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator.
 
